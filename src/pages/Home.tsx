@@ -27,7 +27,6 @@ const fadeIn = {
 
 const REALIZATIONS = [
   { src: "/images/avant-apres-01.jpg", alt: "Intervention électroménager 1" },
-  { src: "/images/avant-apres-02.jpg", alt: "Intervention électroménager 2" },
   { src: "/images/avant-apres-03.jpg", alt: "Intervention électroménager 3" },
   { src: "/images/avant-apres-04.jpg", alt: "Intervention électroménager 4" },
   { src: "/images/avant-apres-05.jpg", alt: "Intervention électroménager 5" },
